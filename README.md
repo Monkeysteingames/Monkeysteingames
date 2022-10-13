@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Monkeysteingames
-- 👀 I’m interested in video game programming and design.
-- 🌱 I’m currently learning software engineering from Springboard.
+- 👋 Hi, I'm Zach!
+- 👀 I'm an explorer of the software development world. 
+- 🌱 Currently working to become a Full-Stack Software Engineer
 - 📫 How to reach me twitter: https://twitter.com/MonkeySteinGame
 
 <!---
